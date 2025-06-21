@@ -1,3 +1,3 @@
-![Tanıtım GIF'i](assets/tanitim.gif)
+![Tanıtım GIF'i](assets/tanitim.gif
 
 
