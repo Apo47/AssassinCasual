@@ -1,2 +1,3 @@
-![Tanıtım GIF'i](assets/game.gif)
+![Tanıtım GIF'i](assets/tanitim.gif)
+
 
